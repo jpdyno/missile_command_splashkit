@@ -1,0 +1,48 @@
+// Missile Command
+// JP Karnilowicz
+// missile_command.txt
+// resources bundle for game
+
+// Scenery
+BITMAP,clouds,clouds.png
+BITMAP,mountains,mountains.png
+BITMAP,ground,ground.png
+BITMAP,launcher_base,launcher_base.png
+
+// Buildings
+BITMAP,building_1,building_1.png
+BITMAP,building_2,building_2.png
+BITMAP,building_3,building_3.png
+BITMAP,building_4,building_4.png
+BITMAP,building_5,building_5.png
+BITMAP,building_6,building_6.png
+BITMAP,building_1_destroyed,building_1_destroyed.png
+BITMAP,building_2_destroyed,building_2_destroyed.png
+BITMAP,building_3_destroyed,building_3_destroyed.png
+BITMAP,building_4_destroyed,building_4_destroyed.png
+BITMAP,building_5_destroyed,building_5_destroyed.png
+BITMAP,building_6_destroyed,building_6_destroyed.png
+
+// Weapons
+BITMAP,launcher_head,launcher_head_blue.png
+BITMAP,missile_small_red,missile_small_red.png
+BITMAP,missile_small_blue,missile_small_blue.png
+BITMAP,missile_large_blue,missile_large_blue.png
+BITMAP,target_blue,target_blue.png
+BITMAP,target_trans,target_trans.png
+BITMAP,explosion,explosion.png
+
+// Bonuses
+BITMAP,bonus_reload,bonus_reload.png
+BITMAP,bonus_speed,bonus_speed.png
+BITMAP,bonus_size,bonus_size.png
+BITMAP,bonus_clear,bonus_clear.png
+BITMAP,bonus_reload_icon,bonus_reload_icon.png
+BITMAP,bonus_speed_icon,bonus_speed_icon.png
+BITMAP,bonus_size_icon,bonus_size_icon.png
+BITMAP,bonus_clear_icon,bonus_clear_icon.png
+
+// Other
+BITMAP,gameover,gameover.png
+BITMAP,welcome,welcome.png
+FONT,franklin_medium,font.ttf
