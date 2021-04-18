@@ -1,5 +1,5 @@
 # missile_command_splashkit
-
+![Welcome](https://github.com/jpdyno/missile_command_splashkit/blob/main/Resources/images/welcome.png?raw=true)
 A missile command type game made using splashkit.
 
 Requires https://github.com/splashkit/splashkit.io
