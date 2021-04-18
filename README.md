@@ -12,5 +12,5 @@ Graphic assets mostly sourced from https://kenney.nl/
 
 ![game screenshot](https://github.com/jpdyno/missile_command_splashkit/blob/main/screenshot.png?raw=true)
 
-download a quick video of the game here:
+Download a quick video of the game here:
 https://github.com/jpdyno/missile_command_splashkit/blob/main/screencast.mkv
