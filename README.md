@@ -5,7 +5,7 @@ A missile command type game made using splashkit.
 
 Created for unit SIT102 @ Deakin University
 
-Requires https://github.com/splashkit/splashkit.io
+Requires https://github.com/splashkit
 
 
 Graphic assets mostly sourced from https://kenney.nl/
