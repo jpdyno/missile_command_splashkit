@@ -3,7 +3,7 @@
 
 A missile command type game made using splashkit.
 
-Created using splashkit for unit SIT102 @ Deakin University
+Created for unit SIT102 @ Deakin University
 
 Requires https://github.com/splashkit/splashkit.io
 
